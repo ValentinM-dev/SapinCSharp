@@ -1,0 +1,14 @@
+C:\Users\Utilisateur\Desktop\Programmation\SapinDeNoel\SapinDeNoel\bin\Debug\net8.0\SapinDeNoel.exe
+C:\Users\Utilisateur\Desktop\Programmation\SapinDeNoel\SapinDeNoel\bin\Debug\net8.0\SapinDeNoel.deps.json
+C:\Users\Utilisateur\Desktop\Programmation\SapinDeNoel\SapinDeNoel\bin\Debug\net8.0\SapinDeNoel.runtimeconfig.json
+C:\Users\Utilisateur\Desktop\Programmation\SapinDeNoel\SapinDeNoel\bin\Debug\net8.0\SapinDeNoel.dll
+C:\Users\Utilisateur\Desktop\Programmation\SapinDeNoel\SapinDeNoel\bin\Debug\net8.0\SapinDeNoel.pdb
+C:\Users\Utilisateur\Desktop\Programmation\SapinDeNoel\SapinDeNoel\obj\Debug\net8.0\SapinDeNoel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Desktop\Programmation\SapinDeNoel\SapinDeNoel\obj\Debug\net8.0\SapinDeNoel.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Desktop\Programmation\SapinDeNoel\SapinDeNoel\obj\Debug\net8.0\SapinDeNoel.AssemblyInfo.cs
+C:\Users\Utilisateur\Desktop\Programmation\SapinDeNoel\SapinDeNoel\obj\Debug\net8.0\SapinDeNoel.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Desktop\Programmation\SapinDeNoel\SapinDeNoel\obj\Debug\net8.0\SapinDeNoel.dll
+C:\Users\Utilisateur\Desktop\Programmation\SapinDeNoel\SapinDeNoel\obj\Debug\net8.0\refint\SapinDeNoel.dll
+C:\Users\Utilisateur\Desktop\Programmation\SapinDeNoel\SapinDeNoel\obj\Debug\net8.0\SapinDeNoel.pdb
+C:\Users\Utilisateur\Desktop\Programmation\SapinDeNoel\SapinDeNoel\obj\Debug\net8.0\SapinDeNoel.genruntimeconfig.cache
+C:\Users\Utilisateur\Desktop\Programmation\SapinDeNoel\SapinDeNoel\obj\Debug\net8.0\ref\SapinDeNoel.dll
